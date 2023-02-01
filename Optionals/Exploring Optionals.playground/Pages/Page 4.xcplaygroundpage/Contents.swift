@@ -20,7 +20,7 @@ var y: String? = ""
 if x == y {
     print ("variables are equal")
 } else {
-    print("variables NOT equala")
+    print("variables NOT equal")
 }
 
 /*:
